@@ -14,6 +14,7 @@ include 它,
         "logfile.txt");
 ```
 > 你也可以删除namespace Lisii或者把他改成你想要的名字，小心不要冲突
+
 开始使用！记得设置正确的日志文件路径！
 ```
 logger_name.debug("Some message.");
